@@ -1,0 +1,6 @@
+fastapi[standard]
+pydantic
+ultralytics
+opencv-contrib-python==4.8.1.78
+numpy<2
+python-multipart
